@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>NAWONG NI FIEL PIMP MY RIDE EDITION</title>
+</head>
+<body>
+    <p>THE HOLY FACE OF FIEL</p>
+    <img src="https://cdn.discordapp.com/attachments/771268194508734497/1007603426399629342/IMG_12042021_120241_270_x_308_pixel.jpg" class="center">
+    <h2>PIMP MY RIDE EDITION</h2>
+    <fieldset>
+        <legend>IS FIEL CRAZY?</legend>
+        <label><input id="YES" type="radio" name="yes-no" value="YES" checked> YES</label>
+        <label><input id="NO" type="radio" name="yes-no" value="NO"> NO</label>
+        </fieldset>
+    <fieldset>
+        <legend>Gusto ba nimo ipapolice si fiel?</legend>
+        <label><input id="OO" type="radio" name="oo-dili" value="oo" checked> OO</label>
+        <label><input id="DILI" type="radio" name="oo-dili" value="dili"> DILI</label>
+    </fieldset>
+    <button type="submit">Submit</button>
+</body>
+</html>
